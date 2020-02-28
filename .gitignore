@@ -1,0 +1,11 @@
+# WebStorm project files
+.idea
+.ideaDataSources
+dataSources
+.shelf
+*.iml
+*.iws
+*.ipr
+
+# Node files
+node_modules
